@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Levintaps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Levintaps&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- **Email:** [levintaps@example.com](levintaps@gmail.com.com)
-- **LinkedIn:** [linkedin.com/in/levintaps](https://linkedin.com/in/levintaps)
-- **Facebook:** [twitter.com/levintaps](https://www.facebook.com/jaysonlevin.tapia)
+- **Email:** [levintaps@gmail.com](levintaps@gmail.com.com)
+- **LinkedIn:** [linkedin.com/in/levintaps](www.linkedin.com/in/levintaps)
+- **Facebook:** [facebook.com/jaysonlevin.tapia](https://www.facebook.com/jaysonlevin.tapia)
 
 ## 🎨 Design & Creativity
 In addition to coding, I also enjoy designing user interfaces and creating visually appealing web applications.
